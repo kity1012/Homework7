@@ -1,0 +1,1132 @@
+.navigation-child {
+position: absolute;
+top: 0px;
+left: 0px;
+background-color: var(--white);
+width: 1440px;
+height: 153px;
+}
+.navigation-item {
+position: absolute;
+top: 73px;
+left: 0px;
+background-color: var(--white);
+width: 1440px;
+height: 79px;
+}
+.navigation-inner {
+position: absolute;
+top: 73px;
+left: 0px;
+background-color: #f3f3f3;
+width: 1440px;
+height: 1px;
+}
+.home {
+position: absolute;
+top: 97px;
+left: 457px;
+color: var(--pink);
+}
+.shop {
+position: absolute;
+top: 97px;
+left: 614px;
+}
+.blog {
+position: absolute;
+top: 97px;
+left: 758px;
+}
+.contacts {
+position: absolute;
+top: 97px;
+left: 902px;
+}
+.social-icons {
+position: absolute;
+top: 27px;
+left: 658px;
+width: 124px;
+height: 18px;
+}
+.lady-shop {
+position: absolute;
+top: 16px;
+left: 165px;
+font-size: var(--font-size-13xl);
+font-family: var(--font-rochester);
+color: var(--black);
+}
+.group-icon {
+position: absolute;
+top: 22px;
+left: 1195px;
+width: 28px;
+height: 28px;
+}
+.phusers-icon {
+position: absolute;
+top: 22px;
+left: 1247px;
+width: 28px;
+height: 28px;
+overflow: hidden;
+}
+.navigation-child1 {
+position: absolute;
+top: 22px;
+left: 1143px;
+width: 28px;
+height: 28px;
+}
+.rectangle-div {
+position: absolute;
+top: 140px;
+left: 470px;
+border-radius: 2px;
+background-color: var(--pink);
+width: 34px;
+height: 3px;
+}
+.navigation {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1440px;
+height: 153px;
+font-size: var(--font-size-9xl);
+font-family: var(--font-playfair-display);
+}
+.you-may-like {
+position: absolute;
+top: 1664px;
+left: 165px;
+font-size: var(--font-size-29xl);
+line-height: 67px;
+font-weight: 600;
+font-family: var(--font-playfair-display);
+color: var(--black);
+}
+.contacts1 {
+position: absolute;
+top: 2840px;
+left: 165px;
+font-size: var(--font-size-29xl);
+line-height: 67px;
+font-weight: 600;
+font-family: var(--font-playfair-display);
+color: var(--black);
+}
+.hero-icon {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1439px;
+height: 569px;
+object-fit: cover;
+}
+.button-child {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-mini);
+background-color: var(--black);
+width: 255px;
+height: 77px;
+}
+.show-more {
+position: absolute;
+top: 23px;
+left: 78px;
+line-height: 30px;
+display: inline-block;
+width: 99px;
+height: 31px;
+}
+.button {
+position: absolute;
+top: 374px;
+left: 164px;
+width: 255px;
+height: 77px;
+}
+.admire-stylish {
+margin: 0;
+}
+.admire-stylish-dresses-container {
+position: absolute;
+top: 103px;
+left: 164px;
+font-size: var(--font-size-29xl);
+line-height: 67px;
+font-family: var(--font-playfair-display);
+}
+.if-we-wanted-container {
+position: absolute;
+top: 250px;
+left: 164px;
+line-height: 30px;
+}
+.slider {
+position: absolute;
+top: 153px;
+left: 1px;
+width: 1439px;
+height: 569px;
+color: var(--white);
+}
+.head-child {
+position: absolute;
+top: 792px;
+left: 640px;
+border-radius: var(--br-base);
+background-color: #efeff4;
+width: 303px;
+height: 225px;
+}
+.head-item {
+position: absolute;
+top: 792px;
+left: 973px;
+border-radius: var(--br-base);
+background-color: var(--color-silver);
+width: 302px;
+height: 225px;
+}
+.dresses-category-icon {
+position: absolute;
+top: 792px;
+left: 973px;
+border-radius: var(--br-base);
+width: 302px;
+height: 225px;
+object-fit: cover;
+}
+.dresses {
+position: absolute;
+top: 875px;
+left: 1012px;
+font-size: var(--font-size-13xl);
+line-height: 45px;
+font-weight: 900;
+font-family: var(--font-playfair-display);
+color: var(--white);
+}
+.new {
+position: absolute;
+top: 845px;
+left: 1012px;
+font-size: var(--font-size-base);
+line-height: 30px;
+color: var(--white);
+}
+.head-inner {
+position: absolute;
+top: 1047px;
+left: 640px;
+border-radius: var(--br-base);
+background-color: var(--color-silver);
+width: 635px;
+height: 203px;
+}
+.denim-jackets-category-icon {
+position: absolute;
+top: 1047px;
+left: 640px;
+border-radius: var(--br-base);
+width: 635px;
+height: 204px;
+object-fit: cover;
+}
+.women-collection {
+position: absolute;
+top: 875px;
+left: 662px;
+font-size: var(--font-size-13xl);
+line-height: 45px;
+font-weight: 900;
+font-family: var(--font-playfair-display);
+color: var(--black);
+display: inline-block;
+width: 281px;
+}
+.denim-jackets {
+position: absolute;
+top: 1141px;
+left: 662px;
+font-size: var(--font-size-13xl);
+line-height: 45px;
+font-weight: 900;
+font-family: var(--font-playfair-display);
+color: var(--black);
+display: inline-block;
+width: 281px;
+}
+.spring-2022 {
+position: absolute;
+top: 845px;
+left: 662px;
+font-size: var(--font-size-base);
+line-height: 30px;
+color: var(--black);
+display: inline-block;
+width: 281px;
+}
+.new1 {
+position: absolute;
+top: 1111px;
+left: 662px;
+font-size: var(--font-size-base);
+line-height: 30px;
+color: var(--black);
+display: inline-block;
+width: 281px;
+}
+.women-collection-category-icon {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-base);
+width: 445px;
+height: 458px;
+object-fit: cover;
+}
+.women-collection1 {
+position: absolute;
+top: 268px;
+left: 32px;
+line-height: 45px;
+font-weight: 900;
+display: inline-block;
+width: 288px;
+}
+.spring-20221 {
+position: absolute;
+top: 358px;
+left: 32px;
+font-size: var(--font-size-base);
+line-height: 30px;
+font-family: var(--font-mulish);
+display: inline-block;
+width: 288px;
+}
+.group-child {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: 8px;
+background-color: var(--white);
+width: 93px;
+height: 30px;
+opacity: 0.4;
+}
+.popular {
+position: absolute;
+top: 0px;
+left: 22px;
+line-height: 30px;
+}
+.rectangle-parent {
+position: absolute;
+top: 396px;
+left: 32px;
+width: 93px;
+height: 30px;
+font-size: 14px;
+font-family: var(--font-roboto);
+}
+.category-1 {
+position: absolute;
+top: 793px;
+left: 163px;
+width: 445px;
+height: 458px;
+font-size: var(--font-size-13xl);
+color: var(--white);
+font-family: var(--font-playfair-display);
+}
+.group-item {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-base);
+background-color: var(--white);
+width: 1110px;
+height: 313px;
+}
+.louis-vouiton {
+position: absolute;
+top: 223px;
+left: 54px;
+line-height: 30px;
+}
+.dolcegabbana {
+position: absolute;
+top: 223px;
+left: 353px;
+line-height: 30px;
+}
+.gucci {
+position: absolute;
+top: 223px;
+left: 626px;
+line-height: 30px;
+}
+.dries-van-noten {
+position: absolute;
+top: 223px;
+left: 906px;
+line-height: 30px;
+}
+.group-inner {
+position: absolute;
+top: 0px;
+left: 0px;
+background-color: var(--white);
+width: 255px;
+height: 207px;
+opacity: 0;
+}
+.icon {
+position: absolute;
+top: 40px;
+left: 49px;
+width: 156px;
+height: 127px;
+object-fit: cover;
+}
+.rectangle-container {
+position: absolute;
+top: 17px;
+left: 0px;
+width: 255px;
+height: 207px;
+}
+.icon1 {
+position: absolute;
+top: 34px;
+left: 77px;
+width: 100px;
+height: 138px;
+object-fit: cover;
+}
+.group-div {
+position: absolute;
+top: 17px;
+left: 285px;
+width: 255px;
+height: 207px;
+}
+.icon2 {
+position: absolute;
+top: 57px;
+left: 49px;
+width: 156px;
+height: 92px;
+object-fit: cover;
+}
+.rectangle-parent1 {
+position: absolute;
+top: 17px;
+left: 570px;
+width: 255px;
+height: 207px;
+}
+.icon3 {
+position: absolute;
+top: 37px;
+left: 80px;
+width: 94px;
+height: 132px;
+object-fit: cover;
+}
+.rectangle-parent2 {
+position: absolute;
+top: 17px;
+left: 855px;
+width: 255px;
+height: 207px;
+}
+.group-child4 {
+position: absolute;
+top: 277px;
+left: 513px;
+width: 84px;
+height: 12px;
+}
+.rectangle-group {
+position: absolute;
+top: 1281px;
+left: 165px;
+width: 1110px;
+height: 313px;
+}
+.head-child1 {
+position: absolute;
+top: 2283px;
+left: 165px;
+border-radius: var(--br-base);
+background-color: var(--white);
+box-shadow: 2px 5px 45px rgba(237, 163, 181, 0.25);
+width: 350px;
+height: 487px;
+}
+.head-child2 {
+position: absolute;
+top: 1766px;
+left: 545px;
+border-radius: var(--br-base);
+background-color: var(--white);
+width: 350px;
+height: 487px;
+}
+.head-child3 {
+position: absolute;
+top: 2283px;
+left: 545px;
+border-radius: var(--br-base);
+background-color: var(--white);
+width: 350px;
+height: 487px;
+}
+.head-child4 {
+position: absolute;
+top: 1766px;
+left: 925px;
+border-radius: var(--br-base);
+background-color: var(--white);
+width: 350px;
+height: 487px;
+}
+.head-child5 {
+position: absolute;
+top: 2283px;
+left: 925px;
+border-radius: var(--br-base);
+background-color: var(--white);
+width: 350px;
+height: 487px;
+}
+.mask-group-icon {
+position: absolute;
+top: 2283px;
+left: 165px;
+border-radius: var(--br-base) var(--br-base) 0px 0px;
+width: 350px;
+height: 270px;
+object-fit: cover;
+}
+.mask-group2-icon {
+position: absolute;
+top: 1766px;
+left: 545px;
+border-radius: var(--br-base) var(--br-base) 0px 0px;
+width: 350px;
+height: 270px;
+object-fit: cover;
+}
+.mask-group2-icon1 {
+position: absolute;
+top: 2283px;
+left: 545px;
+border-radius: var(--br-base) var(--br-base) 0px 0px;
+width: 350px;
+height: 270px;
+object-fit: cover;
+}
+.mask-group3-icon {
+position: absolute;
+top: 1766px;
+left: 925px;
+border-radius: var(--br-base) var(--br-base) 0px 0px;
+width: 350px;
+height: 270px;
+object-fit: cover;
+}
+.mask-group3-icon1 {
+position: absolute;
+top: 2283px;
+left: 925px;
+border-radius: var(--br-base) var(--br-base) 0px 0px;
+width: 350px;
+height: 270px;
+object-fit: cover;
+}
+.womens-black-vest {
+position: absolute;
+top: 2569px;
+left: 189px;
+line-height: 30px;
+font-weight: 900;
+font-family: var(--font-playfair-display);
+display: inline-block;
+width: 325px;
+}
+.womens-black-vest1 {
+position: absolute;
+top: 2052px;
+left: 569px;
+line-height: 30px;
+font-weight: 900;
+font-family: var(--font-playfair-display);
+display: inline-block;
+width: 325px;
+}
+.womens-black-vest2 {
+position: absolute;
+top: 2569px;
+left: 569px;
+line-height: 30px;
+font-weight: 900;
+font-family: var(--font-playfair-display);
+display: inline-block;
+width: 325px;
+}
+.womens-black-vest3 {
+position: absolute;
+top: 2052px;
+left: 949px;
+line-height: 30px;
+font-weight: 900;
+font-family: var(--font-playfair-display);
+display: inline-block;
+width: 325px;
+}
+.womens-black-vest4 {
+position: absolute;
+top: 2569px;
+left: 949px;
+line-height: 30px;
+font-weight: 900;
+font-family: var(--font-playfair-display);
+display: inline-block;
+width: 325px;
+}
+.this-is-a {
+position: absolute;
+top: 2607px;
+left: 189px;
+font-size: var(--font-size-base);
+line-height: 30px;
+display: inline-block;
+width: 325px;
+}
+.this-is-a1 {
+position: absolute;
+top: 2090px;
+left: 569px;
+font-size: var(--font-size-base);
+line-height: 30px;
+display: inline-block;
+width: 325px;
+}
+.this-is-a2 {
+position: absolute;
+top: 2607px;
+left: 569px;
+font-size: var(--font-size-base);
+line-height: 30px;
+display: inline-block;
+width: 325px;
+}
+.this-is-a3 {
+position: absolute;
+top: 2090px;
+left: 949px;
+font-size: var(--font-size-base);
+line-height: 30px;
+display: inline-block;
+width: 325px;
+}
+.this-is-a4 {
+position: absolute;
+top: 2607px;
+left: 949px;
+font-size: var(--font-size-base);
+line-height: 30px;
+display: inline-block;
+width: 325px;
+}
+.b {
+position: absolute;
+top: 2704px;
+left: 189px;
+font-size: var(--font-size-15xl);
+line-height: 30px;
+display: inline-block;
+font-family: var(--font-playfair-display);
+width: 92px;
+height: 37px;
+}
+.b1 {
+position: absolute;
+top: 2187px;
+left: 569px;
+font-size: var(--font-size-15xl);
+line-height: 30px;
+display: inline-block;
+font-family: var(--font-playfair-display);
+width: 92px;
+height: 37px;
+}
+.b2 {
+position: absolute;
+top: 2704px;
+left: 569px;
+font-size: var(--font-size-15xl);
+line-height: 30px;
+display: inline-block;
+font-family: var(--font-playfair-display);
+width: 92px;
+height: 37px;
+}
+.b3 {
+position: absolute;
+top: 2187px;
+left: 949px;
+font-size: var(--font-size-15xl);
+line-height: 30px;
+display: inline-block;
+font-family: var(--font-playfair-display);
+width: 92px;
+height: 37px;
+}
+.b4 {
+position: absolute;
+top: 2704px;
+left: 949px;
+font-size: var(--font-size-15xl);
+line-height: 30px;
+display: inline-block;
+font-family: var(--font-playfair-display);
+width: 92px;
+height: 37px;
+}
+.group-child5 {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-mini);
+background-color: var(--pink);
+width: 153px;
+height: 58px;
+}
+.shop-now {
+position: absolute;
+top: 13px;
+left: 0px;
+line-height: 30px;
+display: inline-block;
+width: 153px;
+height: 32px;
+}
+.rectangle-parent3 {
+position: absolute;
+top: 2694px;
+left: 344px;
+width: 153px;
+height: 58px;
+text-align: center;
+color: var(--white);
+}
+.group-child6 {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-mini);
+background-color: var(--black);
+width: 153px;
+height: 58px;
+}
+.rectangle-parent4 {
+position: absolute;
+top: 2177px;
+left: 724px;
+width: 153px;
+height: 58px;
+text-align: center;
+color: var(--white);
+}
+.rectangle-parent5 {
+position: absolute;
+top: 2694px;
+left: 724px;
+width: 153px;
+height: 58px;
+text-align: center;
+color: var(--white);
+}
+.rectangle-parent6 {
+position: absolute;
+top: 2177px;
+left: 1104px;
+width: 153px;
+height: 58px;
+text-align: center;
+color: var(--white);
+}
+.rectangle-parent7 {
+position: absolute;
+top: 2694px;
+left: 1104px;
+width: 153px;
+height: 58px;
+text-align: center;
+color: var(--white);
+}
+.active-card-child {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-base);
+background-color: var(--white);
+box-shadow: 2px 5px 45px rgba(237, 163, 181, 0.25);
+width: 350px;
+height: 487px;
+}
+.mask-group-icon1 {
+position: absolute;
+top: 0px;
+left: 0px;
+border-radius: var(--br-base) var(--br-base) 0px 0px;
+width: 350px;
+height: 270px;
+object-fit: cover;
+}
+.womens-black-vest5 {
+position: absolute;
+top: 286px;
+left: 24px;
+line-height: 30px;
+font-weight: 900;
+display: inline-block;
+width: 325px;
+}
+.this-is-a5 {
+position: absolute;
+top: 324px;
+left: 24px;
+font-size: var(--font-size-base);
+line-height: 30px;
+display: inline-block;
+font-family: var(--font-mulish);
+width: 325px;
+}
+.b5 {
+position: absolute;
+top: 421px;
+left: 24px;
+font-size: var(--font-size-15xl);
+line-height: 30px;
+display: inline-block;
+width: 92px;
+height: 37px;
+}
+.rectangle-parent8 {
+position: absolute;
+top: 411px;
+left: 179px;
+width: 153px;
+height: 58px;
+text-align: center;
+color: var(--white);
+font-family: var(--font-mulish);
+}
+.active-card-item {
+position: absolute;
+top: 16px;
+left: 290px;
+width: 44px;
+height: 44px;
+}
+.active-card {
+position: absolute;
+top: 1766px;
+left: 165px;
+width: 350px;
+height: 487px;
+font-family: var(--font-playfair-display);
+}
+.head-child6 {
+position: absolute;
+top: 2299px;
+left: 455px;
+width: 44px;
+height: 44px;
+}
+.head-child7 {
+position: absolute;
+top: 1782px;
+left: 835px;
+width: 44px;
+height: 44px;
+}
+.head-child8 {
+position: absolute;
+top: 2299px;
+left: 835px;
+width: 44px;
+height: 44px;
+}
+.head-child9 {
+position: absolute;
+top: 1782px;
+left: 1215px;
+width: 44px;
+height: 44px;
+}
+.head-child10 {
+position: absolute;
+top: 2299px;
+left: 1215px;
+width: 44px;
+height: 44px;
+}
+.head-child11 {
+position: absolute;
+top: 2942px;
+left: 165px;
+border-radius: var(--br-base);
+background-color: var(--white);
+width: 1110px;
+height: 658px;
+}
+.div {
+position: absolute;
+top: 3545px;
+left: 1050px;
+line-height: 30px;
+font-weight: 600;
+}
+.address {
+position: absolute;
+top: 3545px;
+left: 687px;
+line-height: 30px;
+font-weight: 600;
+}
+.email {
+position: absolute;
+top: 3545px;
+left: 287px;
+line-height: 30px;
+font-weight: 600;
+}
+.rectangle-icon {
+position: absolute;
+top: 2954px;
+left: 177px;
+width: 1086px;
+height: 511px;
+object-fit: cover;
+}
+.fa-solidmap-pin-icon {
+position: absolute;
+top: 3209px;
+left: 608px;
+width: 35px;
+height: 62px;
+overflow: hidden;
+}
+.cimail-icon {
+position: absolute;
+top: 3489px;
+left: 1109px;
+width: 40px;
+height: 40px;
+overflow: hidden;
+}
+.iconoirphone {
+position: absolute;
+top: 3489px;
+left: 291px;
+width: 40px;
+height: 40px;
+overflow: hidden;
+}
+.ionlocation-outline-icon {
+position: absolute;
+top: 3489px;
+left: 700px;
+width: 40px;
+height: 40px;
+overflow: hidden;
+}
+.head-child12 {
+position: absolute;
+top: 3670px;
+left: 0px;
+background-color: var(--white);
+width: 1440px;
+height: 333px;
+}
+.lady-shop1 {
+position: absolute;
+top: 3702px;
+left: 165px;
+font-size: var(--font-size-13xl);
+font-family: var(--font-rochester);
+color: var(--black);
+}
+.fashion-is-a-container {
+position: absolute;
+top: 3767px;
+left: 165px;
+font-size: var(--font-size-base);
+line-height: 30px;
+font-weight: 500;
+font-family: var(--font-playfair-display);
+color: #5c5c5c;
+display: inline-block;
+width: 255px;
+}
+.home1 {
+position: absolute;
+top: 3767px;
+left: 546px;
+font-size: var(--font-size-base);
+line-height: 30px;
+font-weight: 600;
+color: var(--gray-6);
+}
+.hot-it-works {
+position: absolute;
+top: 3767px;
+left: 831px;
+font-size: var(--font-size-base);
+line-height: 30px;
+font-weight: 600;
+color: var(--gray-6);
+}
+.faq {
+position: absolute;
+top: 3767px;
+left: 1118px;
+font-size: var(--font-size-base);
+line-height: 30px;
+font-weight: 600;
+color: var(--gray-6);
+}
+.discout-system {
+position: absolute;
+top: 3819px;
+left: 1117px;
+font-size: var(--font-size-base);
+line-height: 30px;
+font-weight: 600;
+color: var(--gray-6);
+}
+.shop1 {
+position: absolute;
+top: 3819px;
+left: 546px;
+font-size: var(--font-size-base);
+line-height: 30px;
+font-weight: 600;
+color: var(--gray-6);
+}
+.about-us {
+position: absolute;
+top: 3819px;
+left: 831px;
+font-size: var(--font-size-base);
+line-height: 30px;
+font-weight: 600;
+color: var(--gray-6);
+}
+.blog1 {
+position: absolute;
+top: 3871px;
+left: 547px;
+font-size: var(--font-size-base);
+line-height: 30px;
+font-weight: 600;
+color: var(--gray-6);
+}
+.decline-rules {
+position: absolute;
+top: 3871px;
+left: 832px;
+font-size: var(--font-size-base);
+line-height: 30px;
+font-weight: 600;
+color: var(--gray-6);
+}
+.contacts2 {
+position: absolute;
+top: 3923px;
+left: 547px;
+font-size: var(--font-size-base);
+line-height: 30px;
+font-weight: 600;
+color: var(--gray-6);
+}
+.terms-conditions {
+position: absolute;
+top: 3923px;
+left: 832px;
+font-size: var(--font-size-base);
+line-height: 30px;
+font-weight: 600;
+color: var(--gray-6);
+}
+.hot-links {
+position: absolute;
+top: 3715px;
+left: 546px;
+line-height: 30px;
+font-weight: 900;
+font-family: var(--font-playfair-display);
+}
+.more-info {
+position: absolute;
+top: 3715px;
+left: 831px;
+line-height: 30px;
+font-weight: 900;
+font-family: var(--font-playfair-display);
+}
+.customer-care {
+position: absolute;
+top: 3715px;
+left: 1117px;
+line-height: 30px;
+font-weight: 900;
+font-family: var(--font-playfair-display);
+}
+.head-child13 {
+position: absolute;
+top: 4003px;
+left: 0px;
+background-color: #e5e5ea;
+width: 1440px;
+height: 74px;
+}
+.lady-shop-all {
+position: absolute;
+top: 4025px;
+left: 165px;
+font-size: 12px;
+line-height: 30px;
+color: var(--gray-6);
+}
+.social-icons1 {
+position: absolute;
+top: 4031px;
+left: 1151px;
+width: 124px;
+height: 18px;
+}
+.head {
+position: relative;
+background-color: #f6f6f6;
+width: 100%;
+height: 4077px;
+overflow: hidden;
+text-align: left;
+font-size: var(--font-size-lg);
+color: var(--color-black);
+font-family: var(--font-mulish);
+}
+
